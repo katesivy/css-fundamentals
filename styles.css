@@ -40,7 +40,6 @@ body {
   .card article img {
     max-height: 100%;
     float: right;
-    padding: 1em;
   }
 
   .card article {
@@ -60,6 +59,7 @@ body {
   .card article p {
     padding-left: 0%;
     color: pink;
+    padding: 1em;
   }
 
   .card footer p {
