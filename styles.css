@@ -45,6 +45,7 @@ body {
   .card article {
     height: 12em;
     background-color: rgba(0,0,0,.5);
+    padding: 1em;
   }
 
   .card h2 {
@@ -59,7 +60,6 @@ body {
   .card article p {
     padding-left: 0%;
     color: pink;
-    padding: 1em;
   }
 
   .card footer p {
