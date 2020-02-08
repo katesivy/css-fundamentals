@@ -48,7 +48,7 @@ body {
   .card h2 {
     margin: 0;
     font-size: 2em;
-    height: 1.5em;
+    line-height: .5em;
   }
 
   .card p {
