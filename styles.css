@@ -9,7 +9,8 @@ body {
     font-size: 10px;
     background-color: #ccc;
   }
-  
+  /*General Page Styles*/
+
   /* Selectors to be matched up with rulesets */
   /*
   .card article img
@@ -42,5 +43,8 @@ body {
     max-height: 100%
     float: right;
   }
+  /*Setup of card container*/
+  /*Styles for header and footer*/
+  /*Styles for main business card contents*/
   */
   
