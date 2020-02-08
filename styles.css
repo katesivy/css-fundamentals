@@ -43,14 +43,26 @@ body {
   .card article {
     height: 120em;
     background-color: 0,0,0,.5;
-  
+  }
+
   .card h2 {
     margin: 0;
     font-size: 20em;
+    height: 15em;
   }
 
   .card p {
     margin: 0;
+  }
+
+  .card article p {
+    padding-left: 0%;
+    color: pink;
+  }
+
+  .card footer p {
+    font-size: 15em;
+    height: 15em;
   }
   
   /* Rulesets to be matched up with selectors */
